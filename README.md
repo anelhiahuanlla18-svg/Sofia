@@ -1,2 +1,2 @@
-# Sofiaaaa
+# Sofi
 Asistente virtual Sofia beta
